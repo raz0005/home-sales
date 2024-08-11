@@ -3,13 +3,13 @@
 
 ## Overview
 
-This project utilizes PySpark to analyze home sales data with the primary goal of determining key metrics about home sales. The analysis includes creating temporary views, partitioning data, caching tables, and comparing query runtimes. By leveraging the power of PySpark, we can efficiently process and analyze large datasets, making this approach scalable and applicable to real-world scenarios.
+This project utilizes PySpark to analyze home sales data to identify key metrics about home sales. The analysis includes creating temporary views, partitioning data, caching tables, and comparing query runtimes. By leveraging the power of PySpark, we can efficiently process and analyze large datasets, making this approach scalable and applicable to real-world scenarios.
 
 ## Requirements
 
 Ensure you have the following software installed:
 
-- **Google Colab** (if using)
+- **Google Colab**
 - **Java**
 - **Apache Spark**
 - **PySpark**
@@ -56,6 +56,4 @@ This analysis demonstrates how PySpark can be used to efficiently process and an
 3. **Run the Notebook**: Follow the instructions in the Jupyter Notebook or Python script provided in the repository.
 4. **Review Outputs**: Examine the output of each step to understand the data processing and analysis workflow.
 
----
 
-Copy and paste this into your `README.md` file on GitHub.
